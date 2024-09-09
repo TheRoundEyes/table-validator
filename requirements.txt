@@ -6,3 +6,4 @@ pdfplumber
 langchain
 genai
 langchain-google-genai
+pip
